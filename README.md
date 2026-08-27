@@ -1,7 +1,7 @@
 # Donchian-Breakout-Strategy-with-Turtle-Trading-System-2
+This is a small project I did for an application to a Quantitative Research role in a school society.
 
-
-Cross- Asset Volatility- Adjusted Donchian Breakout: A Turtle-Style Time-Series Momentum Strategy.
+Cross-Asset Volatility-Adjusted Donchian Breakout: A Turtle-Style Time-Series Momentum Strategy.
 A brief report for this strategy. (All graphs are found within the code)
 Introduction
 Time-series momentum is the tendency of an asset’s own past returns to positively predict its future returns over a short to medium horizon. Moskowitz, Ooi and Pedersen (2012) document this effect across 58 liquid futures instruments, spanning equity indices, currencies, commodities and bonds. This project implements a specific time-series momentum strategy, a volatility-adjusted Donchian Channel breakout, which is structurally identical to the Turtle Trading System.
